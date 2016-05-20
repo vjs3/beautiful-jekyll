@@ -46,7 +46,7 @@ author:
  
 # Select which links to show in the footer
 footer-links-active:
-   rss: false
+  rss: false
   facebook: true
   email: true
   twitter: true
