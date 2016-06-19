@@ -19,6 +19,13 @@ title: Vishwajeet Srivastava
 # Short description of your site
 description: A virtual proof that name is awesome!
 
+timezone: "India/Kolkata"
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title/
+paginate: 5
+paginate_path: "/page:num/"
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
