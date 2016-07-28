@@ -10,7 +10,9 @@ This is a collection of some things I've worked on that are easily viewable onli
 ---
 
 ## Android Projects
- - **[HealthGraph India](http://healthgraph.in/)** - Currently working on this application as Android Developer for Bangalore based startup **HealthGraph India**.My work includes providing tablet support for existing mobile application and add additional features for tablet mode itself.This application is still in the testing phase and will be launched shortly.
+- **[Self-Service Android Application](https://github.com/openMF/self-service-app)** - Currently working on this  microfinance banking based application as part of my Google Summer of Code project under Mifos Initiative. This application will be used by the customers of Microfinancing institutions of India, Africa, Latin America and various other countries. I am developing this application from scratch by following [Model-View-Presenter Architecture](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter). Application will help users to access their bank accounts data, latest transactions, transferring money from one account to another, their profile on the go.
+
+ - **[HealthGraph EHR](https://play.google.com/store/apps/details?id=in.healthgraph.healthgraphehr)** - Worked on this application as Android Developer for Bangalore based startup **HealthGraph India**. This application helps Medical professionals to digitalise patients data, take appointments on the go etc. My work includes providing tablet support for existing mobile application and add additional features for tablet mode itself. Also provided offline support in the application.
 
  - **[CricFriends](https://play.google.com/store/apps/details?id=com.mindefy.cricfrnds.app&hl=en)** - Design and developed this application from scratch as part of my summer internship at Indore based startup **Mind-e-fy  Solutions**.This application helps you to find people with similar interest in playing cricket in your nearby locality.
 
