@@ -37,8 +37,9 @@ This is a collection of some things I've worked on that are easily viewable onli
   - Logic Check<br>
 
 ## Open Source Contribution
-- **[FOSSASIA open event android app](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community.Currently I am actively contributing in this android project of [FOSSASIA](https://github.com/fossasia/open-event-android) community.
-- **[openMRS Android Client](https://github.com/openmrs/openmrs-contrib-android-client)** - [openMRS](http://openmrs.org/) is an open source community creating world's leading open source enterprise electronic medical record system platform.This is android client of openMRS web app in which I am currently helping to resolve existing issues and adding new features. 
+- **[Mifos Field Android Client](https://github.com/openMF/android-client)** - I have contributed to this projects in the initial phase of my contributions to Mifos Initiative for several months. I have resolved several bugs of this project. Currently I help new contributors to get started with this project and help them in resolving their issues as well.
+- **[FOSSASIA open event android app](https://github.com/fossasia/open-event-android)** - In the recent past I have developed interest in open source community. I have contributed in the android project of [FOSSASIA](https://github.com/fossasia/open-event-android) community in the past.
+- **[openMRS Android Client](https://github.com/openmrs/openmrs-contrib-android-client)** - [openMRS](http://openmrs.org/) is an open source community creating world's leading open source enterprise electronic medical record system platform.This is android client of openMRS web app in which I have helped to resolve existing issues. 
 
 ## Technical Content Writing
 - **[GeeksforGeeks](https://geeksforgeeks.org)** - GeeksForGeeks is one of the largest and most famous website among the programming enthusiasts.I am currently writing about core programming concepts in **Java**.Some of my work is as follows:<br>
