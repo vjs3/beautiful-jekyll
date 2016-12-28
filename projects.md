@@ -14,7 +14,7 @@ This is a collection of some things I've worked on that are easily viewable onli
 
  - **[HealthGraph EHR](https://play.google.com/store/apps/details?id=in.healthgraph.healthgraphehr)** - Worked on this application as Android Developer for Bangalore based startup **HealthGraph India**. This application helps Medical professionals to digitalise patients data, take appointments on the go etc. My work includes providing tablet support for existing mobile application and add additional features for tablet mode itself. Also provided offline support in the application.
 
- - **[CricFriends](https://play.google.com/store/apps/details?id=com.mindefy.cricfrnds.app&hl=en)** - Design and developed this application from scratch as part of my summer internship at Indore based startup **Mind-e-fy  Solutions**.This application helps you to find people with similar interest in playing cricket in your nearby locality.
+ - **[CricFriends](https://play.google.com/store/apps/details?id=com.mindefy.cricfrnds.app&hl=en)** (know called, *Cricket with Friends*) - Design and developed this application from scratch as part of my summer internship at Indore based startup **Mind-e-fy  Solutions**.This application helps you to find people with similar interest in playing cricket in your nearby locality.
 
  - **[Shooting Game](https://github.com/vjs3/ShootingGame_Updated)** - A simple Android Shooting game developed using concepts such as SurfaceView, 2D graphics, CustomViews, AsyncTask etc. in which user can hit the target using small bulles from canon.It also has functionality of background music,special sound effects etc using SoundPool.
 
