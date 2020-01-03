@@ -19,7 +19,7 @@ title: Vishwajeet Srivastava
 # Short description of your site
 description: A virtual proof that name is awesome!
 
-timezone: "India/Kolkata"
+timezone: "Germany/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title/
@@ -76,7 +76,7 @@ google_analytics: "UA-72221686-1"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Asia/Kolkata"
+timezone: "CEST/Berlin"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
